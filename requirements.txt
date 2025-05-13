@@ -4,3 +4,5 @@ pyarrow
 seaborn
 matplotlib
 scikit-learn
+mlflow
+pickle5
